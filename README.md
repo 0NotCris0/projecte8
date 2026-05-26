@@ -4,9 +4,9 @@ Digitalitzant les petites i mitjanes empreses.
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Christian Bogdanas
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]: 
+Formant grups de treball: Victor Rodriguez, Pol Castaño i Christian Bogdanas
 
 ## Descripció del projecte
 
